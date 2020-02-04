@@ -14,10 +14,6 @@ node
     {
         echo "Build the code"
     }
-    stage('Unit Testing')
-    {
-        echo "Unit Testing"
-    }
     stage('Delivery')
     {
         echo "Delivery the Code"
